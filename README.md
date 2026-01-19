@@ -32,8 +32,8 @@ Sou um desenvolvedor em formação apaixonado por criar soluções web e mobile.
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Lschanhi&show_icons=true&theme=dracula)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lschanhi&layout=compact&theme=dracula)
 
 ---
 
