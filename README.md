@@ -1,31 +1,29 @@
+### 👨‍💻 Developer Profile
 
-***
+```csharp
+namespace PerfilDoDev
+{
+    public class DevIniciante : Humano
+    {
+        public string Nome { get; set; } = "Lucas Soler Chanhi";
+        public string[] Hobbies { get; set; } = new string[] { "League of Legends", "Manga", "Coding" };
+        public string FocoAtual { get; set; } = "Backend .NET & TCC OmniMarket";
 
-### 2. Modelo "Gamer / RPG" (Visual Criativo)
-Esse modelo usa uma linguagem mais descontraída, tratando seus estudos como "missões" (Quests). É ótimo para mostrar personalidade.
+        public void StackAtual()
+        {
+            // O que estou estudando e usando agora
+            var skills = new List<string>
+            {
+                "C# / .NET 9.0",
+                "Entity Framework",
+                "Azure Cloud",
+                "SQL Server"
+            };
+        }
 
-```markdown
-# 🎮 Player 1: Lschanhi entrou no jogo!
-
-> "Um dev em treinamento transformando café em código C# e bugs em features."
-
-### 📜 Quest Log (Atividades Atuais)
-- [x] Aprender Lógica de Programação
-- [x] Criar primeiros projetos em Console App
-- [🔄] **Main Quest:** Desenvolver o TCC **OmniMarket** (Em andamento...)
-- [ ] Conquistar a primeira vaga Jr.
-- [ ] Aprender Docker e Kubernetes
-
-### ⚔️ Equipamentos (Skills)
-| Classe | Equipamento | Nível |
-| :--- | :--- | :--- |
-| **Arma Principal** | `C# / .NET` | ⭐⭐⭐ |
-| **Escudo** | `SQL Server` | ⭐⭐ |
-| **Mapa** | `Azure Cloud` | ⭐⭐ |
-| **Ferramenta** | `Visual Studio` | ⭐⭐⭐⭐ |
-
-### 🏆 Conquistas Recentes
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lschanhi&layout=compact&theme=radical)
-
----
-*"GG WP!"* (Good Game, Well Played)
+        public string Objetivo()
+        {
+            return "Dominar a arquitetura de microsserviços e Web APIs.";
+        }
+    }
+}
