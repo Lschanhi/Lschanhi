@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou Lucas Soler Chanhi! 👋
 
 ### Estudante de Desenvolvimento de Sistemas | Entusiasta C# & .NET
 
